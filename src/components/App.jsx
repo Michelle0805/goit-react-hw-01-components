@@ -11,6 +11,7 @@ import TransactionHistory from "./TransactionHistory/TransactionHistory";
 export default function App() {
   return (
     <div> 
+  
      <Section title={"1 - Social network profile"}>
         <Profile
           username={user.username}
